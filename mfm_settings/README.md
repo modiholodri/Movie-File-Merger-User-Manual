@@ -8,7 +8,7 @@ Fill in your nick name, so that it will be shown in the pop info when the mouse 
 ## Considered Files Settings
 MFM only considers files which have certain extensions.  Files which are not relevant are ignored.
 
-![Considered Files](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/ConsideredFiles.jpg)
+[![Considered Files](../images/ConsideredFiles.jpg)](../images/ConsideredFiles.jpg)
 
 ### Video Files Extension
 The Video Files Extension regular expression identifies main video files.  If no main file exists also the add-on files will be ignored.  Keep the list as short as possible to speed up the file processing.  Add all wanted video file extensions separated with a vertical line “|”.
@@ -19,7 +19,7 @@ The Add-on Files Extension identified add-on files like subtitles or posters.  A
 ## Name Unification Settings
 MFM tries to unify the names of items, so that they can be better read and compared.
 
-![Name Unification](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/NameUnification.jpg)
+[![Name Unification](../images/NameUnification.jpg)](../images/NameUnification.jpg)
 
 ### Cut Name Before
 The Cut Name Before regular expression tells MFM what not to include in the name.  Everything after, including the match itself, will be removed from the item name.  For example the year is good to remove, because the same movie can have different years in different collections.  The disadvantage is that two different item with the same name, but a different year, will be treated as one.  This regular expression is a little bit more complicated; please consult the Regular Expression Explanation chapter for more information.
@@ -36,7 +36,7 @@ The Episodes Identification regular expression tells MFM where to find the episo
 ## Supporting Programs Installation Paths Settings
 MFM uses just 2 programs which are called direct; TeraCopy and Media info.  Other programs, like the web browser and the media player, are launched by executing the file or http address.
 
-![Supporting Programs](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/SupportingPrograms.jpg)
+[![Supporting Programs](../images/SupportingPrograms.jpg)](../images/SupportingPrograms.jpg)
 
 Note that even when the German version of Windows 7 is installed and the “Program Files” folder is called “Programme” in the Windows explorer the paths work also with “Program Files”.  That means if the default settings are used during the installation there should be no need the change these settings.
 

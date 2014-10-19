@@ -20,7 +20,7 @@ Repeat the procedure until no new items are left in the Import list.
 ## Select the Collection Type
 A collection is the sum of items, which match certain criteria, like Movies, Documentaries or Series.  Try to keep the collections in separate top level folders on your hard disks, to make your life easier when processing your collections.
 
-![Collection Type](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/CollectionType.jpg)
+[![Collection Type](../images/CollectionType.jpg)](../images/CollectionType.jpg)
 
 The Series collection type is treated differently from the other collection types, since its items should have an episode identifier in the file name.  The item names of episodes are cute after the episode identifier in the Garbage and to the Wish lists, which tells MFM that a series is garbage or you want to have it.  In the Existing and the Import list, the items names are cut after the episode identifier, so that MFM can find out which episode are missing.
 
@@ -32,7 +32,7 @@ You can set how exactly the item names are unified in the settings.  To make the
 
 Drop items from the lists on the drop areas to perform actions on them, like save a list, search the internet, erase items for a list, play the video, or get detailed video format information.
 
-![Drop Areas](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/DropAreas.jpg)
+[![Drop Areas](../images/DropAreas.jpg)](../images/DropAreas.jpg)
 
 ### Export List
 Drop a single item from any list here to export the complete list.  The exported list can then be imported again by dropping it on any list.  Use Export List to share your lists over Dropbox or make your own backup.  The working lists do not have to be exported, since they are saved automatically by MFM in your MFM Private folder.
@@ -66,7 +66,7 @@ If you hover the mouse over a list item a pop-up info is shown containing inform
 
 The lists are handled by selecting items and performing the desired action on them.  To select multiple items with the mouse, use the right most column (no header, quite thin and empty) and move the mouse over all items, which should be selected.
 
-![Lists](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/Lists.jpg)
+[![Lists](../images/Lists.jpg)](../images/Lists.jpg)
 
 To add items to a list from a top level folder, drag the folder from the Windows Explorer and drop it on the list.  The add items from an exported list to a list, drag the exported list from the Windows Explorer and drop it on any list.  The pop-up info of items in the list will not be overwritten and only new items added to the list.  Only relevant unified items are added to a list when the items are read from a folder.  Unified items means that if there are more files for the same item, like a video file and a subtitle file, only one entry will be shown in the list.  MFM tries to keep the item names short to make them easier to read and to compare.  Files which are not relevant for MFM will not be shown in the lists.
 
@@ -101,13 +101,13 @@ MFM Private – Contains your private copy of the initialization file and your c
 
 MFM Collection – Contains the collections for sharing and is the standard folder for MFM.  Export and import lists here to share with your friends.  You can make as many independent collections folders as you want and share with different groups of friends.
 
-![MFM and Dropbox](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/MFM_Dropbox1.jpg)
+[![MFM and Dropbox](../images/MFM_Dropbox1.jpg)](../images/MFM_Dropbox1.jpg)
 
 To manage your Dropbox, click on the Dropbox item in the Windows System Tray and select Dropbox.com.  You can then invite other people to your collection folder.
 
 Use Windows Explorer to drag and drop folders or list files into MFM.  I would recommend you to place Windows Explorer to the right of MFM.  To place a window so that it occupies half of the screen, drag it on the title bar to the very right or left side of the screen.
 
-![MFM and Dropbox](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/MFM_Dropbox1.jpg)
+[![MFM and Dropbox](./images/MFM_Dropbox1.jpg)(./images/MFM_Dropbox1.jpg)
 
 MFM uses just a few percent of the free Dropbox online storage, so that you can use Dropbox also for other things, like sharing your photos with your friends, which is much, much easier over Dropbox then over e-mail. Note also that every time you recommend a new user for Dropbox your and their free on-line storage will be increased by 500 MB to a maximum of 16 GB.  All you need is the e-mail of your friend, for which Dropbox should be registered.
 
@@ -117,7 +117,7 @@ You can find more information about GOM Media Player on http://player.gomlab.com
 
 Use GOM Media Player (or any other player of your choice) to view a video.  Drag an item from the Import list on Play Video.  MFM searches for the item in the Import Folder, if MFM does not find the item nothing will happen.
 
-![MFM & GOM](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/MFM_GOM.jpg)
+[![MFM & GOM](../images/MFM_GOM.jpg)](../images/MFM_GOM.jpg)
 
 To use a player is probably the most effect method to get more information about the actual video, since you can judge the quality and content yourself.
 
@@ -127,7 +127,7 @@ You can find more information about IMDb on http://www.imdb.com.  The Internet M
 
 Use IMDb to get additional information about movies, series, or documentaries.  Further, you can also export lists from IMDb, process them a little bit in MS Excel and drop them into your MFM lists.
 
-![MFM & IMDb](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/MFM_IMDb.jpg)
+[![MFM & IMDb](../images/MFM_IMDb.jpg)](../images/MFM_IMDb.jpg)
 
 Firefox (or any other web browser, depending on what you have set in your system settings) is used to search IMDb.  Firefox is Ok to run either on the left or the right side of MFM.
 
@@ -137,7 +137,7 @@ Whole categories of movies, downloaded from IMDb, can be added to the Garbage li
 
 There are two folders, which are relevant for the processing of files, the Target and the Import folder.  When you click the progress bar the files which match the Wish items in the Import list are copied or moved from the Import folder to the Target folder.
 
-![Folders](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/Folders.jpg)
+[![Folders](../images/Folders.jpg)](../images/Folders.jpg)
 
 ### Target Folder
 The Target folder is the folder where you want to copy or move your wish movies to.  Drop a folder from the Windows Explorer into the text field beside the Target folder icon.
@@ -151,7 +151,7 @@ The import folder is set automatically when you drop a folder or file in the Imp
 
 The process Import section allows you to copy or move the actual video and subtitle files.  You have to install TeraCopy to do the actual processing.  See the Installation section how to setup TeraCopy so that it does not replace the default Windows copy or move.
 
-![Process Import](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/ProcessImport.jpg)
+[![Process Import](../images/ProcessImport.jpg)](../images/ProcessImport.jpg)
 
 ### Copy
 If Copy is selected and you click the Progress Bar, the Wish colored items in the Import list will be copied to the Target folder.  Actually, MFM does not do the copying, but just prepares a list which it hands over to TeraCopy.  As soon as MFM has handed over the list, you can continue selecting the items you want to process next.  You can start the next copy process even if TeraCopy is still running.  New items will be added the TeraCopy waiting list and processed when the time has come.
@@ -173,7 +173,7 @@ Use MediaInfo to get detailed information about the video files.
 
 Drag an item from the Import list on MediaInfo...  MFM searches for the item in the Import Folder, it MFM does not find the item nothing will happen.
 
-![MFM & MediaInfo](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/MFM_MediaInfo.jpg)
+[![MFM & MediaInfo](../images/MFM_MediaInfo.jpg)](../images/MFM_MediaInfo.jpg)
 
 ## MFM and PVD
 
@@ -181,11 +181,11 @@ You can find more information about PVD on http://www.videodb.info/forum_en.  Wi
 
 Use Personal Video Database to generate lists of movies according to certain filter criteria or to rename movies to their standard names.  It is important that movies have good names, preferably from IMDb.
 
-![PVD](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/PVD.jpg)
+[![PVD](../images/PVD.jpg)](../images/PVD.jpg)
 
 With advanced filter you can setup complex criteria, and then export the list.  Clean up the exported list, with a text editor like Notepad++, so that only the movie names are in the list, and then drop it into MFM.
 
-![PVD Filter](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/PVDFilter.jpg)
+[![PVD Filter](../images/PVDFilter.jpg)](../images/PVDFilter.jpg)
 
 ## MFM and Torrentz
 
@@ -221,7 +221,7 @@ You can find more information about Torrentz on http://torrentz.eu/
 
 Use Torrentz to download any video you want to have immediately.  Drag an item from the Import list on Search Torrentz.
 
-![MFM & Torrentz](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/MFM_Torrentz.jpg)
+[![MFM & Torrentz](../images/MFM_Torrentz.jpg)](../images/MFM_Torrentz.jpg)
 
 ## Share Rings
 

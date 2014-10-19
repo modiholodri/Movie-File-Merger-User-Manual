@@ -47,14 +47,16 @@ To make the comparison as easy as possible some basic naming guide lines should 
 ### Movies
 A movie is a video telling a fictive story by the use of actors or a story or event recorded by a camera as a set of moving images and shown in a theatre or on television; a motion picture.  Movies should be only actual movies and not be confused with Documentaries or Series.  Even if a movie is based on a real story it is no documentary.  Some sample movies are...
 
-![Movies](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/Movies.jpg)
+[![Movies](../images/Movies.jpg)](../images/Movies.jpg)
 
 When the name of a movie is processed, it is reduced according to certain criteria to ease the matching of the movies.  MFM tries to cleanup Movie names, by cutting them of before the year, in the files name.  If no year is found it is tried to clean up the name according to some other criteria.  However, the better the naming of the files is that better MFM works.
 
 The recommended naming format for movies is…
 
 `Movie Title` (`year`)
-![Movies Format](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/MovieFormat.jpg)
+
+[![Movies Format](../images/MovieFormat.jpg)](../images/MovieFormat.jpg)
+
 The important thing is that the year is immediately after the name.  If round brackets are used or not is not that important and the main reason is readability.
 
 I would recommend having no subfolders for each movie.  If you want to can separate your movies somehow according to genres, but the challenge with this implementation is that all movies are of more than one genre, like action comedy or a romance drama.  To get a good overview of all the stuff you have you can use a database program like the Personal Video Database.  PVD can download information from the IMDb.  With PVD you can mark you movies as seen and filter or sort them according to many criteria.
@@ -62,15 +64,16 @@ I would recommend having no subfolders for each movie.  If you want to can separ
 ### Documentaries
 A documentary is video that is telling a more real story by the use of presenters or a movie or a television program that provides a factual record or report.  Documentaries are treated like movies concerning the item names.  Some sample Documentaries are...
 
-![Documentaries](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/Documentaries.jpg)
+[![Documentaries](../images/Documentaries.jpg)](../images/Documentaries.jpg)
 
 There is no recommended format concerning the documentaries.  Depending on the documentation, either Movie format or Series format can be applied.
 
-![Documentaries Format](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/DocumentariesFormat.jpg)
+[![Documentaries Format](../images/DocumentariesFormat.jpg)](../images/DocumentariesFormat.jpg)
+
 ### Series
 Series are a video collection telling a fictive story in multiple parts or episodes by the use of actors.  Series are set of related television programs, esp. of a specified kind: "a new drama series".  Some sample Series are...
 
-![Series](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/Series.jpg)
+[![Series](../images/Series.jpg)](../images/Series.jpg)
 
 The Series collection is treated, different from the Movies collection.  Items in the Garbage or Wish list are even reduced further, to the Series title.  The Existing and Import lists contain also the episode identifier.  The episode title is removed after the episode identifier, to enable better matching of the episodes.
 
@@ -80,7 +83,8 @@ The recommended naming formats for episodes are…
 
 The series should be in a folder for the each series and sub-folders for each season.
 
-![Series Format](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/SeriesFormat.jpg)
+[![Series Format](../images/SeriesFormat.jpg)](../images/SeriesFormat.jpg)
+
 ### Miscellaneous
 Use this collection for any video of any kind.  It is opened as default.  The Miscellaneous collection is treated like the Movies collection concerning the unified item names.  It can be also used as temporarily collection to clean up your collections.
 
@@ -96,7 +100,7 @@ You can find more information about FileBot on http://www.filebot.net.  FileBot 
 
 Use FileBot to rename movies or series to their standard names.  It is important that series have good names and episode identifiers.  Similarly it is important that movies have good name, so that the list can be matched as good as possible.
 
-![FileBot](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/FileBot.jpg)
+[![FileBot](../images/FileBot.jpg)](../images/FileBot.jpg)
 
 Just drop the series folder of movies in the left list, right click match, and select The TVDB.  After FileBot found the title in the online database, click on Rename.  If FileBot asks you to validate the name, do so, and click continue.
 
@@ -106,14 +110,14 @@ You can find more information on http://www.sherrodcomputers.com/products_filere
 
 Use File Renamer Basic to fix serious problems with you file name, like for example if the Series name is missing in front of the episodes.
 
-![FileRenamer](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/FileRenamer.jpg)
+[![FileRenamer](../images/FileRenamer.jpg)](../images/FileRenamer.jpg)
 
 ## AVI Mux GUI to Combine Videos Split Over More Files
 You can find more information on http://www.alexander-noe.com/video/amg.  AVI-Mux GUI is an application that allows to combine several video, audio or subtitle files into one file, without size restriction, allowing configuring properties of the output file to a deeper level than usual for such applications.
 
 Use AVI Mux GUI to combine movies that are split in two CDs or more.  Drop the files in the top list and select all files in the list.  AVI Mux GUI can only combine files with the same format and resolution.
 
-![AVIMuxGUI](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/AVIMuxGUI.jpg)
+[![AVIMuxGUI](../images/AVIMuxGUI.jpg)](../images/AVIMuxGUI.jpg)
 
 ## MakeMKV to Convert DVDs to Single Files
 
@@ -121,5 +125,5 @@ You can find more information on http://www.makemkv.com.  MakeMKV is your one-cl
 
 Use MakeMKV to convert your DVDs to single MKV files.  If movies are stored in the DVD structure as the single VOB files, MFM will not work.
 
-![MakeMKV](https://raw.githubusercontent.com/Modi777/Movie-File-Merger/master/Manuals/MakeMKV.jpg)
+[![MakeMKV](../images/MakeMKV.jpg)](../images/MakeMKV.jpg)
 
