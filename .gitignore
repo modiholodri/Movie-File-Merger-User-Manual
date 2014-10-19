@@ -5,6 +5,7 @@ cover design/
 # Logs
 logs
 *.log
+*.db
 
 # Runtime data
 pids
