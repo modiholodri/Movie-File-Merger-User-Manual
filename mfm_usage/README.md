@@ -107,7 +107,7 @@ To manage your Dropbox, click on the Dropbox item in the Windows System Tray and
 
 Use Windows Explorer to drag and drop folders or list files into MFM.  I would recommend you to place Windows Explorer to the right of MFM.  To place a window so that it occupies half of the screen, drag it on the title bar to the very right or left side of the screen.
 
-[![MFM and Dropbox](./images/MFM_Dropbox1.jpg)(./images/MFM_Dropbox1.jpg)
+[![MFM and Dropbox](../images/MFM_Dropbox1.jpg)(../images/MFM_Dropbox1.jpg)
 
 MFM uses just a few percent of the free Dropbox online storage, so that you can use Dropbox also for other things, like sharing your photos with your friends, which is much, much easier over Dropbox then over e-mail. Note also that every time you recommend a new user for Dropbox your and their free on-line storage will be increased by 500 MB to a maximum of 16 GB.  All you need is the e-mail of your friend, for which Dropbox should be registered.
 
