@@ -5,7 +5,13 @@ cover design/
 # Logs
 logs
 *.log
-*.db
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
 
 # Runtime data
 pids
