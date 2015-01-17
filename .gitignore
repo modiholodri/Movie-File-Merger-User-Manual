@@ -8,7 +8,7 @@ logs
 
 # Windows image file caches
 *.db
-ehthumbs.db
+Thumbs.db
 
 # Folder config file
 Desktop.ini
