@@ -4,6 +4,8 @@
 ![AVIMuxGUI.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/AVIMuxGUI.jpg)
 
 #### CollectionType.jpg ####
+Out of date...
+
 ![CollectionType.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/CollectionType.jpg)
 
 #### ConsideredFiles.jpg ####
@@ -16,6 +18,8 @@
 ![DocumentariesFormat.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/DocumentariesFormat.jpg)
 
 #### DropAreas.jpg ####
+Out of date...
+
 ![DropAreas.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/DropAreas.jpg)
 
 #### FileBot.jpg ####
@@ -25,33 +29,51 @@
 ![FileRenamer.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/FileRenamer.jpg)
 
 #### Folders.jpg ####
+Update with actual folder names in there...
+
 ![Folders.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/Folders.jpg)
 
 #### GOMPreferences.jpg ####
 ![GOMPreferences.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/GOMPreferences.jpg)
 
 #### Lists.jpg ####
+Make it more realistic...
+
 ![Lists.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/Lists.jpg)
 
 #### MFM.jpg ####
+Update...
+
 ![MFM.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/MFM.jpg)
 
 #### MFM_Dropbox1.jpg ####
+Update...
+
 ![MFM_Dropbox1.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/MFM_Dropbox1.jpg)
 
 #### MFM_Dropbox2.jpg ####
+Update...
+
 ![MFM_Dropbox2.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/MFM_Dropbox2.jpg)
 
 #### MFM_GOM.jpg ####
+Update...
+
 ![MFM_GOM.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/MFM_GOM.jpg)
 
 #### MFM_IMDb.jpg ####
+Update...
+
 ![MFM_IMDb.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/MFM_IMDb.jpg)
 
 #### MFM_MediaInfo.jpg ####
+Update...
+
 ![MFM_MediaInfo.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/MFM_MediaInfo.jpg)
 
 #### MFM_Torrentz.jpg ####
+Update...
+
 ![MFM_Torrentz.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/MFM_Torrentz.jpg)
 
 #### MakeMKV.jpg ####
@@ -64,6 +86,8 @@
 ![Movies.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/Movies.jpg)
 
 #### NameUnification.jpg ####
+Show better optimized settings...
+
 ![NameUnification.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/NameUnification.jpg)
 
 #### PVD.jpg ####
@@ -73,6 +97,8 @@
 ![PVDFilter.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/PVDFilter.jpg)
 
 #### ProcessImport.jpg ####
+Update...
+
 ![ProcessImport.jpg](https://github.com/Modi777/Movie-File-Merger-User-Manual/blob/master/images/ProcessImport.jpg)
 
 #### Series.jpg ####
