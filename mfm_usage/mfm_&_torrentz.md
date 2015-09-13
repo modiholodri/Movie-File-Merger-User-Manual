@@ -19,6 +19,5 @@ You can find more information about Torrentz on the [Torrentz.eu website](http:/
 
 Use Torrentz to download any video you want to have immediately.  Drag an item from the Import list on Search Torrentz.
 
-[![MFM & Torrentz](../images/MFM_Torrentz.jpg)](../images/MFM_Torrentz.jpg)
-
+![MFM & Torrentz](MFM_Torrentz.jpg)
 
