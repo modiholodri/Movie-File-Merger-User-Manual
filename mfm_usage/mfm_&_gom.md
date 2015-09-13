@@ -5,6 +5,6 @@ You can find more information about GOM Media Player on the [GOM website](http:/
 
 Use GOM Media Player (or any other player of your choice) to view a video.  Drag an item from the Import list on Play Video.  MFM searches for the item in the Import Folder, if MFM does not find the item nothing will happen.
 
-[![MFM & GOM](../images/MFM_GOM.jpg)](../images/MFM_GOM.jpg)
+![MFM & GOM](MFM_GOM.jpg)
 
 To use a player is probably the most effect method to get more information about the actual video, since you can judge the quality and content yourself.
