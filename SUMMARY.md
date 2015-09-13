@@ -5,6 +5,7 @@
    * [Basic Steps](mfm_usage/basic_steps.md)
    * [Select the Collection Type](mfm_usage/select_the_collection_type.md)
    * [Use the Drop Areas](mfm_usage/use_the_drop_areas.md)
+       * Tool Tip Regex
    * [Use the Lists](mfm_usage/use_the_lists.md)
    * [MFM & Dropbox](mfm_usage/mfm_&_dropbox.md)
    * [MFM & GOM](mfm_usage/mfm_&_gom.md)
