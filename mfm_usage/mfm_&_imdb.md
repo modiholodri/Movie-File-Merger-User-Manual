@@ -5,7 +5,7 @@ You can find more information about IMDb on the [IMDb website](http://www.imdb.c
 
 Use IMDb to get additional information about movies, series, or documentaries.  Further, you can also export lists from IMDb, process them a little bit in MS Excel and drop them into your MFM lists.
 
-[![MFM & IMDb](../images/MFM_IMDb.jpg)](../images/MFM_IMDb.jpg)
+![MFM & IMDb](MFM_IMDb.jpg)
 
 Firefox (or any other web browser, depending on what you have set in your system settings) is used to search IMDb.  Firefox is Ok to run either on the left or the right side of MFM.
 
