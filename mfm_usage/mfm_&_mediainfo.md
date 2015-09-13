@@ -6,6 +6,7 @@ Use MediaInfo to get detailed information about the video files.
 
 Drag an item from the Import list on MediaInfo...  MFM searches for the item in the Import Folder, it MFM does not find the item nothing will happen.
 
-MFM & MediaInfo
+![MFM & MediaInfo](MFM_MediaInfo.jpg)
+
 
 
