@@ -8,6 +8,7 @@
    * [Use the Drop Areas](mfm_usage/use_the_drop_areas.md)
    * [Tool Tip Regex](tool_tip_regex.md)
    * [Use the Lists](mfm_usage/use_the_lists.md)
+   * Action Bar
    * [Process the Import](mfm_usage/process_the_import.md)
    * [MFM & Dropbox](mfm_usage/mfm_&_dropbox.md)
    * [MFM & GOM](mfm_usage/mfm_&_gom.md)
@@ -16,7 +17,6 @@
    * [MFM & PVD](mfm_usage/mfm_&_pvd.md)
    * [MFM & Torrentz](mfm_usage/mfm_&_torrentz.md)
    * [Share Rings](mfm_usage/share_rings.md)
-   * Action Bar
 * [MFM Settings](mfm_settings/README.md)
    * [Considered Files Settings](mfm_settings/considered_file_settings.md)
    * [Name Unification Settings](mfm_settings/name_unification_settings.md)
