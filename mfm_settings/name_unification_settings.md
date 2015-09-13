@@ -1,7 +1,7 @@
 ## Name Unification Settings
 MFM tries to unify the names of items, so that they can be better read and compared.
 
-[![Name Unification](../images/NameUnification.jpg)](../images/NameUnification.jpg)
+![Name Unification](NameUnification.jpg)
 
 ### Cut Name Before
 The Cut Name Before regular expression tells MFM what not to include in the name.  Everything after, including the match itself, will be removed from the item name.  For example the year is good to remove, because the same movie can have different years in different collections.  The disadvantage is that two different item with the same name, but a different year, will be treated as one.  This regular expression is a little bit more complicated; please consult the Regular Expression Explanation chapter for more information.
