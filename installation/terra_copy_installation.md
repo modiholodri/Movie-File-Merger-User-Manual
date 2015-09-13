@@ -4,10 +4,10 @@ You can find more information about TeraCopy on the [TeraCopy website](http://co
 
 MFM uses TeraCopy to do the actual copying or moving.
 
-[![TeraCopy](../images/TeraCopy.jpg)](../images/TeraCopy.jpg)
+![TeraCopy](TeraCopy.jpg)
 
 Install TeraCopy with the default settings and change them later as shown below if wanted.
 To make sure TeraCopy all the time starts copying, uncheck “Check Free Space” in the Preferences.  You can open the Preferences by right clicking somewhere in the TeraCopy window and selecting Preferences...
 If you do not want that TeraCopy replaces the operating system copy function, uncheck Use TeraCopy as Default Copy Handler.
 
-[![TeraCopy Preferences](../images/TeraCopyPreferences.jpg)](../images/TeraCopyPreferences.jpg)
+![TeraCopy Preferences](TeraCopyPreferences.jpg)
