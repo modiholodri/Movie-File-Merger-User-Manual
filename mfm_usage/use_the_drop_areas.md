@@ -2,7 +2,7 @@
 
 Drop items from the lists on the drop areas to perform actions on them, like save a list, search the internet, erase items for a list, play the video, or get detailed video format information.
 
-[![Drop Areas](../images/DropAreas.jpg)](../images/DropAreas.jpg)
+![Drop Areas](DropAreas.jpg)
 
 ### Export List
 Drop a single item from any list here to export the complete list.  The exported list can then be imported again by dropping it on any list.  Use Export List to share your lists over Dropbox or make your own backup.  The working lists do not have to be exported, since they are saved automatically by MFM in your MFM Private folder.
@@ -22,6 +22,6 @@ Drop an item or an item selection here to search for the titles on IMDb.  You ca
 ### Play Video
 Drop a single item from the Import list here to play the video.  If MFM does not find the video file in the Import folder nothing happens.  Your default media player will be used to play the video.  If the Import folder is available, Play Video is probably the most effective way to know what you get.
 
-### MediaInfo – ALL Check Box
+### Media Info
 Drop an item selection from the Import list here to show the detailed media information with MediaInfo.  If MFM does not find the video files in the import folder nothing happens.  You have to install MediaInfo first to enable this option.
-If the All check box is checked, more detailed information will be added to the popup info, when you drop a file or folder in the lists.  The popup info will be shown when you hover with the mouse over an item.  Check ALL before you update your Existing list and export them, so that other people have more information about the quality of the items.  To read the additional information takes considerable time.  To significantly speed up the processing, uncheck the ALL check box, so that only the basic information has to be read.
+If the check box is checked, more detailed information will be added to the popup info, when you drop a file or folder in the lists.  The popup info will be shown when you hover with the mouse over an item.  Check the checkbox before you update your Existing list and export them, so that other people have more information about the quality of your items.  To read the additional information takes considerable time.  To significantly speed up the processing, uncheck the check box, so that only the basic information has to be read.
