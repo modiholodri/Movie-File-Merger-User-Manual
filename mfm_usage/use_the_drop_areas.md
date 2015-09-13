@@ -2,7 +2,7 @@
 
 Drop items from the lists on the drop areas to perform actions on them, like save a list, search the internet, erase items for a list, play the video, or get detailed video format information.
 
-[![Drop Areas](DropAreas.jpg)](DropAreas.jpg)
+[![Drop Areas](../images/DropAreas.jpg)](../images/DropAreas.jpg)
 
 ### Export List
 Drop a single item from any list here to export the complete list.  The exported list can then be imported again by dropping it on any list.  Use Export List to share your lists over Dropbox or make your own backup.  The working lists do not have to be exported, since they are saved automatically by MFM in your MFM Private folder.
