@@ -26,7 +26,7 @@ MFM is not a movie database program like Personal Video Database! MFM is designe
 - Scan all connected hard disks for collections (Just Scan It)
 - Copy everything, what is missing and not garbage, from the Import folder (Just Rip It) 
 
-For more information have also a look at [How to Organize Videos on Your Hard Disks](modi777.github.io/Movie-File-Merger/modi777.gitbooks.io/how-to-oraganize-videos-on-your-hard-disks).
+For more information have also a look at [How to Organize Videos on Your Hard Disks](https://modi777.gitbooks.io/how-to-oraganize-videos-on-your-hard-disks/).
 
 ## Hidden Benefits
 
