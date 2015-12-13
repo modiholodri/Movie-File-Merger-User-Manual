@@ -85,9 +85,11 @@ Drop an item or an item selection here to search for the titles on IMDb.  You ca
 ### Play Video
 Drop a single item from the Import list here to play the video.  If MFM does not find the video file in the Import folder nothing happens.  Your default media player will be used to play the video.  If the Import folder is available, Play Video is probably the most effective way to know what you get.
 
-### Media Info
-Drop an item selection from the Import list here to show the detailed media information with MediaInfo.  If MFM does not find the video files in the import folder nothing happens.  You have to install MediaInfo first to enable this option.
-If the check box is checked, more detailed information will be added to the popup info, when you drop a file or folder in the lists.  The popup info will be shown when you hover with the mouse over an item.  Check the checkbox before you update your Existing list and export them, so that other people have more information about the quality of your items.  To read the additional information takes considerable time.  To significantly speed up the processing, uncheck the check box, so that only the basic information has to be read.
+Use GOM Media Player (or any other player of your choice) to view a video.  Drag an item from the Import list on Play Video.  MFM searches for the item in the Import Folder, if MFM does not find the item nothing will happen.
+
+![MFM & GOM](MFM_GOM.jpg)
+
+To use a player is probably the most effect method to get more information about the actual video, since you can judge the quality and content yourself.
 
 ## Action Bar
 The purpose of the action bar is to simplify basic actions.  Al actions can be done manually, if wanted.
