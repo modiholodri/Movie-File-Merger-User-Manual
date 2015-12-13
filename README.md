@@ -1,14 +1,14 @@
 # Movie File Merger User Manual
 
-Movie File Merger helps you with the selective combination of video collections, like home videos, movies, series, or documentaries. It can be used also for other types of collections, like music, or basically any files, but MFM is optimized for videos. MFM runs in Dropbox, which makes it easier to share lists with other people. MFM is portable, so that you can run it from anywhere, on any hard disk or memory stick. MFM works together with multiple other programs, like GOM, VLC, MediaInfo, or TeraCopy. All of them can be downloaded and used for free.
+Movie File Merger helps you with the selective combination of video collections, like home videos, movies, series, or documentaries. It can be used also for other types of collections, like music, or basically any files, but MFM is optimized for videos. MFM is portable, so that you can run it from anywhere, on any hard disk or memory stick, or even in Dropbox, which makes it easier to share lists with other people. MFM works together with multiple other programs, like FileBot, GOM, VLC, or TeraCopy. All of them can be downloaded and used for free.
 
-You can download the Movie File Merger from the [MFM website](http://movie-file-merger.org).
+You can download the Movie File Merger and supporting programs from the [MFM website](http://movie-file-merger.org).
 
-![MFM](MFM.gif)
+![MFM Lists](MFM Lists.gif)
 
 ## Features
 
-MFM is not a movie database program like Personal Video Database! MFM is designed so that the lists can be easily updated once out of date. Some examples of what you can do with MFM are:
+MFM is designed so that the lists can be easily updated once out of date. Some examples of what you can do with MFM are:
 
 - Select which videos are copied or moved
 - Select the videos to copy before hand
@@ -17,9 +17,8 @@ MFM is not a movie database program like Personal Video Database! MFM is designe
 - Ignore videos in the Existing and Garbage lists
 - Select movies according to predefined genre lists from IMDb
 - Select videos according to regular expressions
-- Search for movies or series on IMDb
-- Search for videos on torrentz.eu
-- List detailed media information with MediaInfo
+- Search for information of movies or series on the web
+- Search for downloads of videos on the web
 - View video media information in the pop-ups when hovering over a list entry
 - Select videos according to filtered media information
 - Start play the video with your default player
