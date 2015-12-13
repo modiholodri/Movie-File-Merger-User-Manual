@@ -5,7 +5,6 @@
    * [Short Instructions](mfm_usage/shortinstructions.md)
    * [Lists Tab](mfm_usage/lists_tab.md)
    * [Select the Collection Type](mfm_usage/select_the_collection_type.md)
-   * [Use the Drop Areas](mfm_usage/use_the_drop_areas.md)
    * [Tool Tip Regex](mfm_usage/tool_tip_regex.md)
    * [Use the Lists](mfm_usage/use_the_lists.md)
    * [Action Bar](mfm_usage/action_bar.md)
