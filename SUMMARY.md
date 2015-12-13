@@ -5,7 +5,7 @@
    * [Short Instructions](mfm_usage/shortinstructions.md)
    * [Lists Tab](mfm_usage/lists_tab.md)
    * [MFM & Dropbox](mfm_usage/mfm_&_dropbox.md)
-   * [MFM & Player](mfm_usage/mfm_&_player.md)
+   * [MFM & Player](mfm_usage/mfm&_player.md)
    * [MFM & Web Info](mfm_usage/mfm&_info.md)
    * [MFM & Torrentz](mfm_usage/mfm_&_torrentz.md)
    * [Maintenance Tab](mfm_usage/maintenance_tab.md)
