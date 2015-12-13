@@ -10,7 +10,7 @@
    * [MFM & MediaInfo](mfm_usage/mfm_&_mediainfo.md)
    * [MFM & Torrentz](mfm_usage/mfm_&_torrentz.md)
    * [Maintenance Tab](mfm_usage/maintenance_tab.md)
-   * Log Tab
+   * [Log Tab](mfm_usage/log_tab.md)
    * [Share Rings](mfm_usage/share_rings.md)
 * [MFM Settings](mfm_settings/README.md)
    * [Considered Files Settings](mfm_settings/considered_file_settings.md)
