@@ -70,8 +70,12 @@ Drop items from the lists on the drop areas to perform actions on them, like sav
 ### Export List
 Drop a single item from any list here to export the complete list.  The exported list can then be imported again by dropping it on any list.  Use Export List to share your lists over Dropbox or make your own backup.  The working lists do not have to be exported, since they are saved automatically by MFM in your MFM Private folder.
 
-### Search Torrentz
+### Search Torrents
+Use Torrents to download any video you want to have immediately.  Drag an item from the Import list on Search Download drop area, to search the web for downloads.
+
 Drop a single or multiple items here to search for the titles on Torrentz.eu.  Your default web browser will be used for the search.  To do the actual download, you have to install a torrent client like uTorrrent.
+
+![MFM & Torrents](MFM_Torrents.jpg)
 
 ### Erase Color
 Drop a single item of any list here to erase all items of the same colour from the list.  You can for example erase all Garbage movies from your Existing list or you can erase all existing movies from the Wish list after they have been processed.  To shorten the Import list and ease the selection process, you can erase all Garbage, Existing, and Wish items, because the Import list can be reloaded once the selection process is finished.
