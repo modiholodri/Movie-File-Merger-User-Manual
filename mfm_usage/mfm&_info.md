@@ -2,8 +2,6 @@
 
 You can find more information about the movies or series on the web, like for example on IMDb or The TVDb websites.
 
->The Internet Movie Database (IMDb) is an online database of information related to films, television programs, and video games. This includes actors, production crew personnel, and fictional characters featured in these three visual entertainment media.
-
 Use the web to get additional information about movies, series, or documentaries.  Further, you can also export lists from IMDb, process them a little bit in MS Excel and drop them into your MFM lists.
 
 ![MFM & Info](MFM_Info.jpg)
