@@ -1,8 +1,10 @@
 # MFM Settings
 
-The Settings tab contains all settings to adjust MFM to the style of your collection. Anyway, if you follow my style, then there should not be too much need to change any of the settings.
+The Settings tab contains all settings to adjust MFM to the style of your collection. Anyway, if you follow default style, then there should not be too much need to change any of the settings.
 
 Most of the settings are regular expressions.  See the chapter Regular Expressions at the end of MFM Settings for more information.
+
+Click on the manual pictures to open the online manuals or on the banner to go to the Movie File Merger web page.
 
 ![](MFM Settings.gif)
 
