@@ -4,7 +4,6 @@
 * [MFM Usage](mfm_usage/README.md)
    * [Short Instructions](mfm_usage/shortinstructions.md)
    * [Lists Tab](mfm_usage/lists_tab.md)
-   * [Process the Import](mfm_usage/process_the_import.md)
    * [MFM & Dropbox](mfm_usage/mfm_&_dropbox.md)
    * [MFM & GOM](mfm_usage/mfm_&_gom.md)
    * [MFM & IMDb](mfm_usage/mfm_&_imdb.md)
