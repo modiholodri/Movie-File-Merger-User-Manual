@@ -6,7 +6,7 @@
    * [Lists Tab](mfm_usage/lists_tab.md)
    * [Maintenance Tab](mfm_usage/maintenance_tab.md)
    * [Log Tab](mfm_usage/log_tab.md)
-   * [Setting Tab](mfm_usage/setting_tab.md)
+   * [Settings Tab](mfm_usage/settings_tab.md)
    * [Instructions Tab](mfm_usage/instructions_tab.md)
    * [About Tab](mfm_usage/about_tab.md)
    * [Share Rings](mfm_usage/share_rings.md)
