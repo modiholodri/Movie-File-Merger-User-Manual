@@ -11,7 +11,7 @@
    * [MFM & Torrentz](mfm_usage/mfm_&_torrentz.md)
    * [Maintenance Tab](mfm_usage/maintenance_tab.md)
    * [Log Tab](mfm_usage/log_tab.md)
-   * Instructions Tab
+   * [Instructions Tab](mfm_usage/instructions_tab.md)
    * [About Tab](mfm_usage/about_tab.md)
    * [Share Rings](mfm_usage/share_rings.md)
 * [MFM Settings](mfm_settings/README.md)
