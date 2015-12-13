@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Short Instructions](mfm_usage/shortinstructions.md)
 * [MFM Usage](mfm_usage/README.md)
    * [Short Instructions](mfm_usage/shortinstructions.md)
    * [Lists Tab](mfm_usage/lists_tab.md)
