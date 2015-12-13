@@ -4,7 +4,6 @@ The Lists tab is the main tab to combine video collections. Use it to move items
 
 ![MFM Lists](MFM Lists.gif)
 
-
 ## Select the Collection Type
 A collection is the sum of items, which match certain criteria, like Movies, Documentaries or Series.  Keep the collections in separate top level folders on your hard disks, to make your life easier when processing your collections and use Just Scan It.
 
