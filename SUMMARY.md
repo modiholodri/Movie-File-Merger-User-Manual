@@ -13,6 +13,7 @@
    * [Instructions Tab](mfm_usage/instructions_tab.md)
    * [About Tab](mfm_usage/about_tab.md)
    * [Share Rings](mfm_usage/share_rings.md)
+   * Setting Tab
 * [Installation](installation/README.md)
    * [MFM Installation](installation/mfm_installation.md)
    * [Terra Copy Installation](installation/terra_copy_installation.md)
