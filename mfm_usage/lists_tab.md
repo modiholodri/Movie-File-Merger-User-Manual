@@ -53,4 +53,12 @@ Drop a single item from the Import list here to play the video.  If MFM does not
 Drop an item selection from the Import list here to show the detailed media information with MediaInfo.  If MFM does not find the video files in the import folder nothing happens.  You have to install MediaInfo first to enable this option.
 If the check box is checked, more detailed information will be added to the popup info, when you drop a file or folder in the lists.  The popup info will be shown when you hover with the mouse over an item.  Check the checkbox before you update your Existing list and export them, so that other people have more information about the quality of your items.  To read the additional information takes considerable time.  To significantly speed up the processing, uncheck the check box, so that only the basic information has to be read.
 
+## Tool Tip Regex
+The Tool Tip Regex area is there to search in the tool tips, which pop up when you hover with the mouse over a list entry.  To search a list simply take an entry of the list you want to search and drop it on the regular expression.  All entries matching the regular expression will be selected in the list.
+
+Regular expressions can be very complicated, but basic regular expressions are not that complicated and it should be possible to figure out how they work by looking at the examples. Regular expressions can be tested on the [Rubular website](http://rubular.com).
+
+![ToolTipRegex](ToolTipRegex.jpg)
+
+Some examples are listed in the drop down list to the right of the entry field.
 
