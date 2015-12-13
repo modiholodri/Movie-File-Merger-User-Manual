@@ -6,6 +6,7 @@
    * [Set the Folders](mfm_usage/set_the_folders.md)
    * [Select the Collection Type](mfm_usage/select_the_collection_type.md)
    * [Use the Drop Areas](mfm_usage/use_the_drop_areas.md)
+   * Lists Tab
    * [Tool Tip Regex](mfm_usage/tool_tip_regex.md)
    * [Use the Lists](mfm_usage/use_the_lists.md)
    * [Action Bar](mfm_usage/action_bar.md)
@@ -16,7 +17,6 @@
    * [MFM & MediaInfo](mfm_usage/mfm_&_mediainfo.md)
    * [MFM & Torrentz](mfm_usage/mfm_&_torrentz.md)
    * [Share Rings](mfm_usage/share_rings.md)
-   * Lists Tab
 * [MFM Settings](mfm_settings/README.md)
    * [Considered Files Settings](mfm_settings/considered_file_settings.md)
    * [Name Unification Settings](mfm_settings/name_unification_settings.md)
