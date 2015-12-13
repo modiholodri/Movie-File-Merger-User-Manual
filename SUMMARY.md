@@ -17,7 +17,6 @@
 * [MFM Settings](mfm_settings/README.md)
    * [Considered Files Settings](mfm_settings/considered_file_settings.md)
    * [Name Unification Settings](mfm_settings/name_unification_settings.md)
-   * [Supporting Programs Path Settings](mfm_settings/supporting_programs_path_settings.md)
    * [Regular Expressions](mfm_settings/regular_expressions.md)
 * [Installation](installation/README.md)
    * [MFM Installation](installation/mfm_installation.md)
