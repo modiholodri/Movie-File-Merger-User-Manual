@@ -79,8 +79,18 @@ Drop a single item of any list here to erase all items of the same colour from t
 ### Erase Selected
 Drop an item or an item selection here to erase all selected items from a list.  You can select multiple items with the mouse by clicking in the empty column to the right of the item title column.  If you use the keyboard, you can select multiple items with the Shift key.  Single selected items can also be deleted with the Delete key.  Use Erase Selected to clear a complete list, be selecting all if the items with the mouse.
 
-### Search IMDb
+### Search the Web for Inormation
+You can find more information about the movies or series on the web, like for example on IMDb or The TVDb websites.
+
+Use the web to get additional information about movies, series, or documentaries.  Further, you can also export lists from IMDb, process them a little bit in MS Excel and drop them into your MFM lists.
+
 Drop an item or an item selection here to search for the titles on IMDb.  You can select multiple items with the mouse by clicking in the empty column to the right of the item title column.  You can also double click a single item in any list to search for the title on IMDb.  Your default web browser will be used to perform the internet search.
+
+![MFM & Info](MFM_Info.jpg)
+
+Firefox (or any other web browser, depending on what you have set in your system settings) is used to search the web.
+
+Whole categories of movies, downloaded from IMDb, can be added to the Garbage list.  For example export a list with Sport movies from IMDb, open the exported list with MS Excel, delete not wanted columns, make the Title column the first column and then save the file as tabulator delimited text file.  Drop the file in your Garbage list.  The first column will be used as item title; the other columns will be added to the popup info.  If you like Sci-fi movies then you can drop the Sci-fi list in your Wish list and whenever MFM finds a Sci-fi movie it will be copied.
 
 ### Play Video
 Drop a single item from the Import list here to play the video.  If MFM does not find the video file in the Import folder nothing happens.  Your default media player will be used to play the video.  If the Import folder is available, Play Video is probably the most effective way to know what you get.
