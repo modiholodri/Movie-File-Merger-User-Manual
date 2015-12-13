@@ -53,6 +53,26 @@ Drop a single item from the Import list here to play the video.  If MFM does not
 Drop an item selection from the Import list here to show the detailed media information with MediaInfo.  If MFM does not find the video files in the import folder nothing happens.  You have to install MediaInfo first to enable this option.
 If the check box is checked, more detailed information will be added to the popup info, when you drop a file or folder in the lists.  The popup info will be shown when you hover with the mouse over an item.  Check the checkbox before you update your Existing list and export them, so that other people have more information about the quality of your items.  To read the additional information takes considerable time.  To significantly speed up the processing, uncheck the check box, so that only the basic information has to be read.
 
+## Action Bar
+The purpose of the action bar is to simplify basic actions.  Al actions can be done manually, if wanted.
+
+![ActionBar](ActionBar.jpg)
+
+### Just Scan It
+Just Scan It searches in the top level folder of your connected hard disks for folders containing a collection type (Adult, Movies, Documentaries, Series, or Clips) in the name.
+
+### Select
+When you click Select all entries in all lists matching the criteria to the right side are selected.
+
+### Bin
+When you click Bin all entries in the Existing, Wish and Import List are moved into the Garbage list.
+
+### Wish
+When you click Wish all entries in the Import list are selected and copied into the Wish list.
+
+### Just Rip It
+Just Rip it rips everything in the Import folder and copies or moves it to the Target folder, according the the Processing options.
+
 ## Tool Tip Regex
 The Tool Tip Regex area is there to search in the tool tips, which pop up when you hover with the mouse over a list entry.  To search a list simply take an entry of the list you want to search and drop it on the regular expression.  All entries matching the regular expression will be selected in the list.
 
