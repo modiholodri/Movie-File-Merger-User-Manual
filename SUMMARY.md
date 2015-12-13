@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [MFM Usage](mfm_usage/README.md)
    * [Short Instructions](mfm_usage/shortinstructions.md)
-   * Lists Tab
+   * [Lists Tab](mfm_usage/lists_tab.md)
    * [Set the Folders](mfm_usage/set_the_folders.md)
    * [Select the Collection Type](mfm_usage/select_the_collection_type.md)
    * [Use the Drop Areas](mfm_usage/use_the_drop_areas.md)
