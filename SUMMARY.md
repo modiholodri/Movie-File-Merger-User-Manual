@@ -5,7 +5,6 @@
    * [Short Instructions](mfm_usage/shortinstructions.md)
    * [Lists Tab](mfm_usage/lists_tab.md)
    * [Use the Lists](mfm_usage/use_the_lists.md)
-   * [Action Bar](mfm_usage/action_bar.md)
    * [Process the Import](mfm_usage/process_the_import.md)
    * [MFM & Dropbox](mfm_usage/mfm_&_dropbox.md)
    * [MFM & GOM](mfm_usage/mfm_&_gom.md)
