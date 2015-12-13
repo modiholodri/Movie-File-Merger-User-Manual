@@ -6,7 +6,7 @@
    * [Lists Tab](mfm_usage/lists_tab.md)
    * [MFM & Dropbox](mfm_usage/mfm_&_dropbox.md)
    * [MFM & GOM](mfm_usage/mfm_&_gom.md)
-   * [MFM & Web Info](mfm_usage/mfm_&_info.md)
+   * [MFM & Web Info](mfm_usage/mfm&_info.md)
    * [MFM & Torrentz](mfm_usage/mfm_&_torrentz.md)
    * [Maintenance Tab](mfm_usage/maintenance_tab.md)
    * [Log Tab](mfm_usage/log_tab.md)
