@@ -70,18 +70,18 @@ Drop items from the lists on the drop areas to perform actions on them, like sav
 ### Export List
 Drop a single item from any list here to export the complete list.  The exported list can then be imported again by dropping it on any list.  Use Export List to share your lists over Dropbox or make your own backup.  The working lists do not have to be exported, since they are saved automatically by MFM in your MFM Private folder.
 
-### Search Torrents
-Use Torrents to download any video you want to have immediately.  Drag an item from the Import list on Search Download drop area, to search the web for downloads.
+### Search Download
+Use torrents to download any video you want to have immediately.  Drag an item from a list on Search Download drop area, to search the web for downloads.
 
-Drop a single or multiple items here to search for the titles on Torrentz.eu.  Your default web browser will be used for the search.  To do the actual download, you have to install a torrent client like uTorrrent.
+Drop a single or multiple items here to search for the titles on the selected download page.  You can change the download page with the down arrow beside the Download drop area.  Your default web browser will be used for the search.  To do the actual download, you have to install a torrent client like Tixati or uTorrrent.
 
 ![MFM & Torrents](MFM_Torrents.jpg)
 
-### Erase Color
-Drop a single item of any list here to erase all items of the same colour from the list.  You can for example erase all Garbage movies from your Existing list or you can erase all existing movies from the Wish list after they have been processed.  To shorten the Import list and ease the selection process, you can erase all Garbage, Existing, and Wish items, because the Import list can be reloaded once the selection process is finished.
-
 ### Erase Selected
 Drop an item or an item selection here to erase all selected items from a list.  You can select multiple items with the mouse by clicking in the empty column to the right of the item title column.  If you use the keyboard, you can select multiple items with the Shift key.  Single selected items can also be deleted with the Delete key.  Use Erase Selected to clear a complete list, be selecting all if the items with the mouse.
+
+### Erase Color
+Drop a single item of any list here to erase all items of the same colour from the list.  You can for example erase all Garbage movies from your Existing list or you can erase all existing movies from the Wish list after they have been processed.  To shorten the Import list and ease the selection process, you can erase all Garbage, Existing, and Wish items, because the Import list can be reloaded once the selection process is finished.
 
 ### Search the Web for Inormation
 You can find more information about the movies or series on the web, like for example on IMDb or The TVDb websites.
@@ -122,17 +122,15 @@ When you click Bin all entries in the Existing, Wish and Import List are moved i
 ### Wish
 When you click Wish all entries in the Import list are selected and copied into the Wish list.
 
-### Just Rip It
-Just Rip it rips everything in the Import folder and copies or moves it to the Target folder, according the the Processing options.
+### Edit
+Click on edit to edit the regular expression.
 
-## Tool Tip Regex
-The Tool Tip Regex area is there to search in the tool tips, which pop up when you hover with the mouse over a list entry.  To search a list simply take an entry of the list you want to search and drop it on the regular expression.  All entries matching the regular expression will be selected in the list.
+The Selection area is there to search in the tool tips, which pop up when you hover with the mouse over a list entry.  To search a list simply take an entry of the list you want to search and drop it on the regular expression.  All entries matching the regular expression will be selected in the list.
 
 Regular expressions can be very complicated, but basic regular expressions are not that complicated and it should be possible to figure out how they work by looking at the examples. Regular expressions can be tested on the [Rubular website](http://rubular.com).
 
-![ToolTipRegex](ToolTipRegex.jpg)
-
-Some examples are listed in the drop down list to the right of the entry field.
+### Just Rip It
+Just Rip it rips everything in the Import folder and copies or moves it to the Target folder, according the the Processing options.
 
 ## Process the Import
 
@@ -141,7 +139,7 @@ The process Import section allows you to copy or move the actual video and subti
 ![](ProcessImport.jpg)
 
 ### Start Process
-Click the Start Process button once you have made your other selections to start the processing.  MFM will create list files and hand them over to TeraCopy, which does the actual copying or moving.  As soon as MFM has handed over the list, you can continue selecting the items you want to process next.
+Click the Start Process button once you have made your other selections to start the processing.  MFM will create list files and hand them over to TeraCopy, which does the actual copying or moving. As soon as MFM has handed over the list, you can continue selecting the items you want to process next.
 
 ### Copy
 If Copy is selected and you click the Progress Bar, the Wish colored items in the Import list will be copied to the Target folder.  Actually, MFM does not do the copying, but just prepares a list which it hands over to TeraCopy.  As soon as MFM has handed over the list, you can continue selecting the items you want to process next.  You can start the next copy process even if TeraCopy is still running.  New items will be added the TeraCopy waiting list and processed when the time has come.
@@ -149,11 +147,11 @@ If Copy is selected and you click the Progress Bar, the Wish colored items in th
 ### Move
 If Move is checked and the Progress Bar clicked, the Wish colored items in the Import list will be moved to the Target folder.  Actually, MFM does not do the moving, but just prepares a list which it hands over to TeraCopy.  As soon as MFM has handed over the list, you can continue selecting the items you want to process next.  You can start the next moving process even if TeraCopy is still running.  New items will be added the TeraCopy waiting list and processed when the time has come.
 
-### Keep Folders
-If Keep Folders is checked the folder structure of the Import folder will be recreated in the Target folder.  Only folders which contain items that are copied or moved are created.  To keep the keep the folder structure is especially useful for series.  For movies I would recommend to flatten the folder structure.
+### Minimum Resolution
+Select the lowest resolution you want to process.  Files with a resoltuition lower than the selected will be ignored.
 
 ### Get Higher Res
-If Ger Higher Res is checked videos found with a higher resolution than the existing videos will be also copied.  Later you can replace the existing lower resolution videos with the higher (and normally better quality) ones.  Note: to make that option work best, you should scan your existing videos with the MediaInfo option checked.
+If Get Higher Res is checked videos found with a higher resolution than the existing videos will be also copied.  Later you can replace the existing lower resolution videos with the higher (and normally better quality) ones.
 
 ## Share Rings
 
@@ -164,8 +162,6 @@ The MFM Collection folder is used as default from MFM.  If you want to open anot
 Since all members of a share ring compare their list with each other it is quite important to use the same naming conventions and item unification settings.
 
 Since it is a lot of work to select videos, precompiled lists (with thousands of entries) can be downloaded from IMDb.  The precompiled lists can be for genres, like sci-fi, romance, drama action...  If you put a precompiled list in your wish folder MFM searches for videos of all genres in the wish list.  Some precompiled lists are also provided with the MFM installation.
-
-## MFM & Dropbox
 
 MFM is designed to be executed as a whole in Dropbox.  Use Dropbox to share your lists with your friends.  Dropbox is best used to the right side of MFM in the Windows Explorer.  Basically there are three folders in Dropbox, which are relevant for MFM...
 
