@@ -7,7 +7,6 @@
    * [MFM & Dropbox](mfm_usage/mfm_&_dropbox.md)
    * [MFM & GOM](mfm_usage/mfm_&_gom.md)
    * [MFM & IMDb](mfm_usage/mfm_&_imdb.md)
-   * [MFM & MediaInfo](mfm_usage/mfm_&_mediainfo.md)
    * [MFM & Torrentz](mfm_usage/mfm_&_torrentz.md)
    * [Maintenance Tab](mfm_usage/maintenance_tab.md)
    * [Log Tab](mfm_usage/log_tab.md)
