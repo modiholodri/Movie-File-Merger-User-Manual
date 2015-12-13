@@ -10,7 +10,7 @@
        * [Considered Files Settings](mfm_settings/considered_file_settings.md)
        * [Name Unification Settings](mfm_settings/name_unification_settings.md)
        * [Regular Expressions](mfm_settings/regular_expressions.md)
-   * Setting Tab
+   * [Setting Tab](mfm_usage/setting_tab.md)
    * [Instructions Tab](mfm_usage/instructions_tab.md)
    * [About Tab](mfm_usage/about_tab.md)
    * [Share Rings](mfm_usage/share_rings.md)
