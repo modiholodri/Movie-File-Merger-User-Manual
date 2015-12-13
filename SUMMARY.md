@@ -7,7 +7,7 @@
    * [MFM & Dropbox](mfm_usage/mfm_&_dropbox.md)
    * [MFM & Player](mfm_usage/mfm&_player.md)
    * [MFM & Web Info](mfm_usage/mfm&_info.md)
-   * [MFM & Torrentz](mfm_usage/mfm_&_torrentz.md)
+   * [MFM & Downloads](mfm_usage/mfm_&_downloads.md)
    * [Maintenance Tab](mfm_usage/maintenance_tab.md)
    * [Log Tab](mfm_usage/log_tab.md)
    * [Instructions Tab](mfm_usage/instructions_tab.md)
