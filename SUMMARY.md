@@ -13,6 +13,7 @@
    * [Log Tab](mfm_usage/log_tab.md)
    * [About Tab](mfm_usage/about_tab.md)
    * [Share Rings](mfm_usage/share_rings.md)
+   * Instructions Tab
 * [MFM Settings](mfm_settings/README.md)
    * [Considered Files Settings](mfm_settings/considered_file_settings.md)
    * [Name Unification Settings](mfm_settings/name_unification_settings.md)
