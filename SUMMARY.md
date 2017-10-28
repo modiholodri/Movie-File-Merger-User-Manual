@@ -10,8 +10,4 @@
   * [About Tab](mfm_usage/about_tab.md)
 * [Installation](installation/README.md)
   * [MFM Installation](installation/mfm_installation.md)
-  * [Terra Copy Installation](installation/terra_copy_installation.md)
-  * [Dropbox Installation](installation/dropbox_installation.md)
-  * [GOM Imstallation](installation/gom_imstallation.md)
-  * [MediaInfo Installation](installation/mediainfo_installation.md)
 
